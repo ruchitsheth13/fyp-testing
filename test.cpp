@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
 
 int main() {
-  int t = 1; // Initialize variable t with a valid value
+  int t = 5; // Number of test cases
+  return 0;
 }
