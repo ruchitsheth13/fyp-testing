@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-  int t = 5; // Number of test cases
-  while (t--) {
+  int testCases = 1; // Number of test cases
+  while (testCases--) {
     // Logic for each test case would go here
     std::cout << "Executing a test case." << std::endl;
   }
