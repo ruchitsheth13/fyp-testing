@@ -1,6 +1,6 @@
-#include <iostream.>
+#include <iostream>
 
 int main() {
-  int t = ;
-  return x;
-
+  int t = 5; // Initialize 't' with a valid value
+  return 0; // Use a valid return value
+}
