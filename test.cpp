@@ -1,6 +1,6 @@
-#include <iostream.>
+#include <iostream>
 
 int main() {
-  int t = ;
-  return x;
-
+  int t = 0;
+  return 0;
+}
